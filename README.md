@@ -1,1 +1,2 @@
 # cors
+This testing CORS
